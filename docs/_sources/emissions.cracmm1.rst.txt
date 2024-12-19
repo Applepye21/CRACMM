@@ -1,0 +1,21 @@
+emissions.cracmm1 package
+=========================
+
+Submodules
+----------
+
+emissions.cracmm1.cracmm\_mapper module
+---------------------------------------
+
+.. automodule:: emissions.cracmm1.cracmm_mapper
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: emissions.cracmm1
+   :members:
+   :undoc-members:
+   :show-inheritance:
