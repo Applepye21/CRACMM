@@ -20,5 +20,8 @@ documentation for details.
    emissions/README.md
    metadata/README.md
    utilities/README.md
+   utilities/BEISMEGAN_biogenicmapping2cracmm.ipynb
+   utilities/markdown_metadata.ipynb
+   utilities/SPECIATE_map2cracmm.ipynb
    modules
    license.md
