@@ -1,0 +1,7 @@
+Code
+=====================
+
+.. automodule:: emissions.cracmm2.cracmm_mapper
+   :members:
+   :undoc-members:
+   :show-inheritance:

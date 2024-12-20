@@ -1,4 +1,4 @@
-### Support utilities for CRACMM
+# Support utilities
 
 Code to create species markdown file for CMAQ in [python](markdown_metadata.py) and [python jupyter notebook](markdown_metadata.ipynb):
 Requires as input the CMAQ-ready species namelists, species description file, AERO_DATA.F, SOA_DEFN.F, and hlconst.F.

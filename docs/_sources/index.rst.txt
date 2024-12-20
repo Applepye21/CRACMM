@@ -12,16 +12,27 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Contents:
-
+   :maxdepth: 2
+   
    README.md
+
+.. toctree::
+   :maxdepth: 3 
+   :caption: Contents
+
    chemistry/README.md
    emissions/README.md
    metadata/README.md
    utilities/README.md
-   utilities/BEISMEGAN_biogenicmapping2cracmm.ipynb
-   utilities/markdown_metadata.ipynb
-   utilities/SPECIATE_map2cracmm.ipynb
-   modules
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Code
+
+   code
+
+.. toctree::
+   :maxdepth: 2
+   :caption: License Information
+
    license.md
