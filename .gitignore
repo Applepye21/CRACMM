@@ -2,3 +2,4 @@
 conf.py
 sphinx
 *__pycache__*
+__init__.py
